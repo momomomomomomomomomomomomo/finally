@@ -75,7 +75,7 @@ body{
 }
 #section1{
     margin: 0;
-    height: 600px;
+    height: 700px;
     background-color: #5C5470;
     text-align: center;
 }
@@ -100,25 +100,25 @@ h3{
 
 #section2{
     margin: 0;
-    height: 600px;
+    height: 700px;
     background-color: #352F44;
     text-align: center;
 }
 #section3{
     margin: 0;
-    height: 600px;
+    height: 700px;
     background-color: #5C5470;
     text-align: center;
 }
 #section4{
     margin: 0;
-    height: 600px;
+    height: 700px;
     background-color: #352F44;
     text-align: center;
 }
 #section5{
     margin: 0;
-    height: 600px;
+    height: 700px;
     background-color: #5C5470;
     text-align: center;
 }
@@ -237,6 +237,9 @@ h1{
     }
     
 }
+
+
+
 
 
 
